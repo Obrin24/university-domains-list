@@ -6064,7 +6064,7 @@
       ],
       "name": "Illinois Benedictine College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Illinois",
       "domains": [
           "ibc.edu"
       ],
@@ -6076,7 +6076,7 @@
       ],
       "name": "Illinois Institute of Technology",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Illinois",
       "domains": [
           "iit.edu",
           "hawk.iit.edu"
